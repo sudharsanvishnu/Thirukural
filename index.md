@@ -1,4 +1,4 @@
-## Welcome to Thirukural
+# Welcome to Thirukural
 
 The Tirukkuṛaḷ is a classic Tamil sangam literature consisting of 1330 couplets or Kurals. It was authored by Thiruvalluvar.
 
@@ -13,19 +13,31 @@ Quick Introduction to Thirukkural in Tamil, English. Written by Thiruvalluvar.
 திருக்குறள் - இதற்குப் பலர் உரை எழுதியுள்ளனர். அவற்றில் புகழ் வாய்ந்ததாக விளங்குவதும் அதிகமாகப் பயன்படுத்தப்பட்டதும் பரிமேலழகர் உரைதான். தற்காலத்திலும் பலர் உரை எழுதியுள்ளனர். அவற்றில் சிலவற்றை தமிழ் மற்றும் ஆங்கிலத்தில் இத்தளத்தின் வாயிலாக படித்து மகிழுங்கள்.
 
 தமிழ் உரை எழுதியவர்கள்
+<br />
 • திரு பரிமேலழகர்
+<br />
 • திரு மு.வரதராசனார்
+<br />
 • திரு மணக்குடவர்
+<br />
 • திரு மு.கருணாநிதி
+<br />
 • திரு சாலமன் பாப்பையா
+<br />
 • திரு வீ.முனிசாமி
 
 ஆங்கில உரை எழுதியவர்கள்
+<br />
 • Rev. Dr. G. U. Pope
+<br />
 • Rev W. H. Drew
+<br />
 • Rev. John Lazarus
+<br />
 • Mr F. W. Ellis
 
-Go to - thirukural
+### Go to - [Kural](https://sudharsanvishnu.github.io/Thirukural/kural.json)
 
-go to - details
+### Go to - [details](https://sudharsanvishnu.github.io/Thirukural/subsections.json)
+
+### similar API [--](https://sudharsanvishnu.github.io/timesworld-about/)
