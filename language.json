@@ -1,4 +1,4 @@
-[ 
+[ {
     "en-US" : {
     "Become_a_tripfactory_partner": "Станьте партнером TripFactory",
     "Dont_have_an_account_signup": "У Вас нет аккаунта? Зарегистрируйтесь",
@@ -150,7 +150,7 @@
     "Language": "язык",
     "Country_and_language":"Страна и язык",
     "dayschedule": "Расписание дня"
- },
+    },
  "ru-RU" : {
         "Become_a_tripfactory_partner": "Станьте партнером TripFactory",
     "Dont_have_an_account_signup": "У Вас нет аккаунта? Зарегистрируйтесь",
@@ -303,6 +303,7 @@
     "Country_and_language":"Страна и язык",
     "dayschedule": "Расписание дня"
  }
+}
  ]
 
 
