@@ -40,4 +40,6 @@ Quick Introduction to Thirukkural in Tamil, English. Written by Thiruvalluvar.
 
 ### Go to - [details](https://sudharsanvishnu.github.io/Thirukural/subsections.json)
 
+### Go to -[languages](https://sudharsanvishnu.github.io/Thirukural/language.json)
+
 ### similar API [--](https://sudharsanvishnu.github.io/timesworld-about/)
