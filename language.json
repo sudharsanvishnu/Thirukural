@@ -1,17 +1,16 @@
 [{
-  "title": "Tamil Gun"
+  "title": "Tamil Gun",
   "web": "https://tamilgun.news/",
   "id": 1,
 },
 {
-  "title": "Tamil MV"
+  "title": "Tamil MV",
   "web": "https://tamilgun.news/",
   "id": 2,
 },
 {
-  "title": "English Movies"
+  "title": "English Movies",
   "web": "https://tamilgun.news/",
   "id": 3,
-},
-
+}
 ]
