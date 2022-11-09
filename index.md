@@ -43,3 +43,13 @@ Quick Introduction to Thirukkural in Tamil, English. Written by Thiruvalluvar.
 ### Go to -[languages](https://sudharsanvishnu.github.io/Thirukural/language.json)
 
 ### similar API [--](https://sudharsanvishnu.github.io/timesworld-about/)
+
+##example
+ useEffect(() => {
+        let url = "https://sudharsanvishnu.github.io/Thirukural/language.json";
+        fetch(url)
+            .then((response) => response.json())
+            .then((data) => {
+                console.log(data)
+            }).catch(e => console.log(e, 'error'));
+  }, [])
