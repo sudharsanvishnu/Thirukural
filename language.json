@@ -1,4 +1,17 @@
+[{
+  "title": "Tamil Gun"
+  "web": "https://tamilgun.news/",
+  "id": 1,
+},
 {
-  "sulur": "https://tamilgun.news/",
-  "id": 9
-}
+  "title": "Tamil MV"
+  "web": "https://tamilgun.news/",
+  "id": 2,
+},
+{
+  "title": "English Movies"
+  "web": "https://tamilgun.news/",
+  "id": 3,
+},
+
+]
